@@ -30,7 +30,7 @@ I learned how to connect a web page to external APIs and interact with them usin
 - **Problem:** The list of saved locations didn't update immediately after editing or deleting a location
 - **Solution:** I fixed this by calling the display function again after each update or delete operation
 
-![location](ss/1.png)
+![location](weather-app/ss/1.png)
 
 ### Challenge 2: Handling Invalid Inputs and API Errors
 - **Problem:** When users entered cities that didn't exist, the app would break or show confusing responses
