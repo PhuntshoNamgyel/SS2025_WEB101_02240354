@@ -31,8 +31,8 @@ This helped me understand how charts can significantly improve data presentation
 - **Problem:** I had trouble getting charts to render correctly, especially when switching between different libraries with different syntax and requirements
 - **Solution:** I solved this by carefully following the official documentation for each library (Recharts and react-chartjs-2) to understand the required props, data structure, and component configuration
 
-![data1](Data-Visualisation/public/chart.png)
-![data2](Data-Visualisation/public/graph.png)
+![data1](Data-Visualization/public/chart.png)
+![data2](Data-Visualization/public/graph.png)
 
 **Challenge 2: Data Formatting for Different Chart Types**
 - **Problem:** Each chart library expected data in different formats, causing rendering issues when the same data structure was used across different chart types
